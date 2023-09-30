@@ -1,3 +1,10 @@
 body {
     min-width: 300px;
+    background-image: url("https://images.hindustantimes.com/img/2021/07/02/1600x900/williamson-wtc-final-getty_1625191248834_1625191259886.jpg");
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-size: cover; /* Scale the background image to cover the entire element */
+    background-position: center; /* Center the background image within the element */ 
+    font-weight: bold;
+    font-style: italic;
+    color:black;
 }
